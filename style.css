@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	padding: 30px;
+	background-color: skyblue;
+	color: white;
+	}
+	
+	.palindrome {
+	margin: auto;
+	width: 40%;
+	border: 3px solid gray;
+	border-radius: 5px;
+	padding: 30px;
+	}
+	
+	#palindrome {
+	width: 100%;
+	border: 3px solid gray;
+	border-radius: 5px;
+	padding: 6px;
+	}
